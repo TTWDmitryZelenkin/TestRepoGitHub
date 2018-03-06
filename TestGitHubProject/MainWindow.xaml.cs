@@ -24,6 +24,6 @@ namespace TestGitHubProject
         {
             InitializeComponent();
         }
-        // this is a test one. Initial commit. Initial branch
+        // this is a test one. Second commit. Initial branch
     }
 }
